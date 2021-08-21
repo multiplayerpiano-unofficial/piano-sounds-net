@@ -1,0 +1,3 @@
+[submodule "mppclassic"]
+	path = mppclassic
+	url = https://github.com/multiplayerpiano/mppclassic
